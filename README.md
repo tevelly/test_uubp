@@ -1,4 +1,4 @@
 # test_uubp
-ovo je prvi test ......
+this is the frist stest ......
 
-Mislim da je već sada komplicirano .....!?
+I think it's so complicated .....!?
